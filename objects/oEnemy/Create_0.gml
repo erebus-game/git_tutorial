@@ -1,0 +1,8 @@
+/// @description 
+mygun = noone;
+if (hasweapon) {
+	mygun = instance_create_layer(x,y, "Gun", oEGun);
+	with (mygun) {
+		owner = other.id;
+	}
+}
