@@ -12,5 +12,5 @@ function KillPlayer(){
 	if (sign(hsp) != 0) image_xscale = sign(hsp);
 	
 	global.kills -= global.killsthisroom;
-	show_debug_message("Player died");
+	show_debug_message("Player died"); //SAD
 }
