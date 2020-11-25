@@ -1,4 +1,5 @@
 /// Youssef wuz here
+/// Online merge conflict purposefully created
 /// @desc ScreenShake(magnitude, frames)
 /// @param {int} magnitude sets the strength of the shake
 /// @param {int} frames Sets the length of the shake in frames
