@@ -13,4 +13,5 @@ function KillPlayer(){
 	
 	global.kills -= global.killsthisroom;
 	show_debug_message("Player died"); //SAD
+	//Josh's big change
 }
